@@ -1,0 +1,8 @@
+path fail: longnose gar,66,119,155 -> 65,118,156: Id #4581:Path Goal Seek Station Flood:Station Marauder Mill at 65,118,156
+path fail: giant toad,2,150,138 -> 4,149,139: Id #4599:Path Goal Seek Station Flood:Station Marauder Mill at 4,149,139
+path fail: giant platypus,130,133,156 -> 126,138,156: Id #4585:Path Goal Marauder Mill:Station Marauder Mill at 126,138,156
+path fail: giant platypus,121,115,155 -> 125,124,156: Id #4585:Path Goal Marauder Mill:Station None at 121,114,155
+path fail: giant platypus,124,125,155 -> 124,126,156: Id #4585:Path Goal Marauder Mill:Station None at 122,118,155
+path fail: giant platypus,102,183,155 -> 98,180,156: Id #4585:Path Goal Marauder Mill:Station None at 104,184,155
+path fail: carp,119,158,155 -> 123,155,156: Id #4590:Path Goal Owner:Station Owner at 123,155,156
+path fail: carp,117,122,155 -> 120,129,156: Id #4586:Path Goal Marauder Mill:Station Marauder Mill at 120,129,156

@@ -1,0 +1,30 @@
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 3233334
+ Seed: aAaWuyUOCwq0SSKU8ysC
+ History Seed: u06m0iCWocYscuA4eUIS
+ Name Seed: yuECC6WsqAua0mCYKwqc
+ Creature Seed: OAKYuKS6MWK6GO80GCew
+Nothing has arrived on the calendar.
+Nothing has arrived on the calendar.
+** Starting New Outpost **
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Loaded region1, Kar Nam (The Dimensions of Destiny) at coordinates (13,27)
+Loaded the fortress Athelfesh (Ringwing), colonized by the group Ethadurdim (The Decent Towers) of the civilization Saramolin (The Great Tongs).
+
+Spring has arrived on the calendar.
+You have struck orthoclase!
+You have struck garnierite!
+It has started raining.
+There is nothing to catch in the central swamps.
+You have struck garnierite!
+You have struck orthoclase!
+x2
+You have struck native silver!
+The weather has cleared.
+It has started raining.
+The weather has cleared.
+You have struck native silver!
+Sodel Ingishtatlosh has become a Fisherdwarf.
